@@ -237,8 +237,8 @@ img {
 .section-bottom{
     padding-bottom: 0;
 }
-.features .title-main,
-.portfolio .title {
+
+.visibility-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
